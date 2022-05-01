@@ -23,13 +23,12 @@
   L'appplication Statutis a pour objectif de vérifier la disponibilité de vos services (exemple : Site web), ainsi que ce dernier fonctionne correctement. Pour cela, ce logiciel se base su différent mode de vérification comme des requêtes HTTP ou DNS, et vous permez d'en controller le résultat (dans une certaine mesure). Statutis est développé par <a href="https://github.com/Miithrandiir">Simon HEBAN</a> et <a href="https://github.com/silvainlud">Ludwig SILVAIN</a>.
 </p>
 
-- [Méthodologie de gestion de projets]()
-- Description Technique
-  - [Choix technologique]()
-  - [Environnement de développement]()
-    - [API](https://github.com/Statutis/api/README.md)
-    - [Frontend](https://github.com/Statutis/frontend/README.md)
-  - [Déploiment]()
-- [Contribution]()
-- [Documentation Utilisateur]()
+## Projet
 
+| Dêpots | Descripition |
+| --- | --- |
+| Frontent | l'interface web pour l'application |
+| API | API Rest et tâches cron de notre logiciel |
+| docker-compose | instruction de deploiement en production |
+
+**[Consulter le WIKI](https://github.com/Statutis/.github/wiki)**
