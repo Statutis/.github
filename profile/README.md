@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sport.silvain.eu/">
-    <img alt="decathlon" src="../mark/favicon.png" height="100"/>
+    <img alt="Statutis" src="https://github.com/Statutis/.github/raw/main/mark/favicon.png" height="100"/>
   </a>
 </p>
 
