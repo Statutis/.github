@@ -55,6 +55,6 @@ Utilisation du webservice de [statuspage.io](https://www.atlassian.com/software/
 
 ## Langage
 
-- Fontend : framework react
-- API : ASP .Net Core 6
+- Fontend : Javascript avec le framework React
+- API : C# avec ASP .Net Core 6
 
