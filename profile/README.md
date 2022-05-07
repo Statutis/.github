@@ -50,7 +50,7 @@
 | ServiceController | 8 | 4 | 4 | 1 |
 | ServiceTypeController | 2 | | | |
 | TeamController | 3 | 1 | 2 | 1 |
-| UserController | 5 | 0 | 3 | 0 |
+| UserController | 5 | | 3 | |
 
 ## Consommerez des services web REST (Ceux que vous avez crées, via un front web , un bot discord, une app mobile...)
 
