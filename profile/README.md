@@ -32,3 +32,26 @@
 | docker-compose | instruction de deploiement en production |
 
 **[Consulter le WIKI](https://github.com/Statutis/.github/wiki)**
+
+## jhgomejhjghpe
+
+
+###  Créerez des services web REST en utilisant les verbes utilisés en cours (GET, POST, PUT, DELETE) [3 x Controller minimum].
+
+
+| Controlleur | GET | POST | PUT | DELETE |
+| --- | --- | --- | --- | --- | 
+
+### Consommerez des services web REST (Ceux que vous avez crées, via un front web , un bot discord, une app mobile...)
+
+Réalisation d'un site Frontend avec le framework React : [lien vers le dépôt](https://github.com/Statutis/frontend)
+
+###  Consommerez des services web externes (Twitter, Facebook, Google, Twitch, toute autre api externe...)
+
+Utilisation du webservice de [statuspage.io](https://www.atlassian.com/software/statuspage) de Atlassian pour vérifier les status de certains service comme [Github](https://www.githubstatus.com/api) ou encore [DigitalOceans](https://status.digitalocean.com/api).
+
+### Langage
+
+- Fontend : framework react
+- API : ASP .Net Core 6
+
