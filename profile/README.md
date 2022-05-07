@@ -25,11 +25,11 @@
 
 ## Projets
 
-| Dêpots | Descripition |
+| Dépôts | Description |
 | --- | --- |
-| Frontent | l'interface web pour l'application |
-| API | API Rest et tâches cron de notre logiciel |
-| docker-compose | instruction de deploiement en production |
+| [Frontend](https://github.com/statutis/frontend) | l'interface web pour l'application |
+| [API](https://github.com/statutis/api) | API Rest et tâches cron de notre logiciel |
+| [docker-compose](https://github.com/statutis/docker-compose) | instruction de déploiement en production |
 
 **[Consulter le WIKI](https://github.com/Statutis/.github/wiki)**
 
