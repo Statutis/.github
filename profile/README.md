@@ -44,6 +44,13 @@
 
 | Controlleur | GET | POST | PUT | DELETE |
 | --- | --- | --- | --- | --- | 
+| AuthenticateController |  | 3 | | |
+| GroupController | 3 | 1 | 2 | 1 |
+| HistoryController | 2 | | | |
+| ServiceController | 8 | 4 | 4 | 1 |
+| ServiceTypeController | 2 | | | |
+| TeamController | 3 | 1 | 2 | 1 |
+| UserController | 5 | 0 | 3 | 0 |
 
 ## Consommerez des services web REST (Ceux que vous avez crées, via un front web , un bot discord, une app mobile...)
 
