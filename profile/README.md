@@ -47,7 +47,7 @@
 | AuthenticateController |  | 3 | | |
 | GroupController | 3 | 1 | 2 | 1 |
 | HistoryController | 2 | | | |
-| ServiceController | 8 | 4 | 4 | 1 |
+| ServiceController | 8 | 4 | 4 | 5 |
 | ServiceTypeController | 2 | | | |
 | TeamController | 3 | 1 | 2 | 1 |
 | UserController | 5 | | 3 | |
