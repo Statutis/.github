@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  L'appplication Statutis a pour objectif de vérifier la disponibilité de vos services (exemple : Site web), ainsi que ce dernier fonctionne correctement. Pour cela, ce logiciel se base su différent mode de vérification comme des requêtes HTTP ou DNS, et vous permez d'en controller le résultat (dans une certaine mesure). Ce projet à été développé par <a href="https://github.com/Miithrandiir">Simon HEBAN</a> & <a href="https://github.com/silvainlud">Ludwig SILVAIN</a> dans le cadre du module d'initiation au WebService lors de la première année de master WedSci de l'Université du Littoral Cote d'opale.
+  L'application Statutis a pour objectif de vérifier la disponibilité de vos services (exemple : Site web), ainsi que ce dernier fonctionne correctement. Pour cela, ce logiciel se base sur différents modes de vérification comme des requêtes HTTP ou DNS, et vous permet d'en contrôler le résultat (dans une certaine mesure). Ce projet a été développé par <a href="https://github.com/Miithrandiir">Simon HEBAN</a> & <a href="https://github.com/silvainlud">Ludwig SILVAIN</a> dans le cadre du module d'initiation au WebService lors de la première année de master WedSci de l'Université du Littoral Côte d'opale.
 </p>
 
 ## Projets
